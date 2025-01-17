@@ -8,10 +8,9 @@ management:
       exposure:
         include:
           - '*'
-  endpoint:
-    env:
-      show-values: ALWAYS
-
+#  endpoint:
+#    env:
+#      show-values: ALWAYS
 
 greeting-service:
   greeting: "Olá"
