@@ -1,18 +1,12 @@
 spring:
   application:
     name: greeting-service
-
 management:
   endpoints:
     web:
       exposure:
         include:
           - '*'
-#  endpoint:
-#    env:
-#      show-values: ALWAYS
-
-
 greeting-service:
   greeting: "teste"
   default-value: "World"

@@ -1,17 +1,14 @@
 spring:
   application:
     name: greeting-service
-
+  profiles:
+    active: 'dev'
 management:
   endpoints:
     web:
       exposure:
         include:
           - '*'
-#  endpoint:
-#    env:
-#      show-values: ALWAYS
-
 
 greeting-service:
   greeting: "Hello"
