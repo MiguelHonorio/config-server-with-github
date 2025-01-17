@@ -1,8 +1,6 @@
 spring:
   application:
     name: greeting-service
-  profiles:
-    active: 'dev'
 management:
   endpoints:
     web:
