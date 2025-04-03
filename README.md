@@ -65,3 +65,7 @@ Se tudo estiver correto, a resposta JSON conterá as configurações esperadas.
 ✅ Compatível com repositórios Git para versionamento e rastreabilidade.  
 
 ---
+
+📌 **Nota:** Este projeto é apenas para fins de estudo e aprendizado. Não deve ser utilizado em produção sem as devidas adaptações e medidas de segurança.  
+
+Se precisar de mais alguma alteração, me avise! 🚀
