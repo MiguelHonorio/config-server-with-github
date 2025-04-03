@@ -39,7 +39,7 @@ spring:
 
 Para testar o funcionamento do **Config Server**, utilize as seguintes aplicações:  
 
-1. **config-server** (porta `8888`) - Servidor de configuração que busca os valores do GitHub.  
+1. **aula-config-server** (porta `8888`) - Servidor de configuração que busca os valores do GitHub.  
 2. **greeting-service** (porta `8080`) - Aplicação cliente que consome as configurações centralizadas.  
 
 ### **Passo a passo:**  
